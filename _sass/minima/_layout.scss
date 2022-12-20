@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  // border-top: 5px solid $grey-color-dark;
+  // border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -18,9 +18,75 @@
   margin-bottom: 0;
   float: left;
 
+  .logo {
+    max-width: 2rem;
+    max-height: 2rem;
+    border-radius: 5px;
+  }
+
   &,
   &:visited {
     color: $grey-color-dark;
+  }
+}
+
+.big-nav {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 10px;
+  row-gap: 10px;
+  margin-bottom: 1rem;
+
+  @include media-query($on-palm) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .page-link {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: blueviolet;
+    color: white;
+    font-weight: bold;
+    aspect-ratio: 1;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+
+    &:first-child {
+      background: darkred;
+      grid-row: 1 / span 2;
+      grid-column: 1 / span 2;
+    }
+
+    &:nth-child(2) {
+      background: darkorange;
+    }
+    &:nth-child(3) {
+      background: darkkhaki;
+    }
+    &:nth-child(4) {
+      background: darkgreen;
+    }
+    &:nth-child(5) {
+      background: darkblue;
+    }
+    &:nth-child(6) {
+      background: indigo;
+    }
+    &:nth-child(7) {
+      background: darkviolet;
+    }
+
+    &:hover {
+      text-decoration: none;
+      box-shadow: 0px 0px 5px rgba(0,0,0, 0.5);
+    }
+
+    .set {
+      font-weight: normal;
+      font-size: smaller;
+    }
   }
 }
 
@@ -106,7 +172,7 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  // border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
 }
 
@@ -119,6 +185,11 @@
 .social-media-list {
   list-style: none;
   margin-left: 0;
+  a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
 }
 
 .footer-col-wrapper {
@@ -126,51 +197,10 @@
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  column-gap: 10px;
 }
-
-.footer-col {
-  float: left;
-  margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
-}
-
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-  width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-  width:         calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-  .footer-col-1,
-  .footer-col-2 {
-    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
-  }
-
-  .footer-col-3 {
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
-}
-
-@include media-query($on-palm) {
-  .footer-col {
-    float: none;
-    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
-  }
-}
-
-
 
 /**
  * Page content
