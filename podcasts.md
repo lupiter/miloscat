@@ -2,7 +2,8 @@
 layout: page
 title: Podcasts
 permalink: /podcasts/
-thumbnail: assets/thumbnails/podcast.png
+thumbnail: assets/thumbnails/podcasts.png
+order: 3
 ---
 
 [Nul Points](https://www.youtube.com/channel/UC6I3FoS8Y3oVsM8Z92eXegQ). A Eurovision commentary podcast, I talk over Eurovision broadcasts with Horseypope and Cathy Wise.

@@ -2,7 +2,8 @@
 layout: page
 title: Links
 permalink: /links/
-thumbnail: assets/thumbnails/link.png
+thumbnail: /assets/thumbnails/links.jpg
+order: 5
 ---
 
 Friends and collaborators:

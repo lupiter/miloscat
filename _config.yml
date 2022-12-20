@@ -20,7 +20,7 @@ collections:
 links:
   - url: https://www.youtube.com/user/Wiseguy934/featured
     text: Streams
-    thumbnail: assets/thumbnails/streams.jpg
+    thumbnail: assets/thumbnails/streams.png
     logo: youtube
   - url: https://www.twitch.tv/miloscatter
     text: Twitch

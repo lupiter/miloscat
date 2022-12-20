@@ -52,30 +52,19 @@
     text-align: center;
     align-items: center;
     justify-content: end;
+    background-size: cover;
+    overflow: hidden;
 
-    &:first-child {
-      background: darkred;
+    .title, .set {
+      background-color: rgba(0,0,0, 0.5);
+      text-shadow: 0 0 5px rgba(0,0,0, 0.5);
+      display: block;
+      width: 100%;
+    }
+
+    &.big {
       grid-row: 1 / span 2;
       grid-column: 1 / span 2;
-    }
-
-    &:nth-child(2) {
-      background: darkorange;
-    }
-    &:nth-child(3) {
-      background: darkkhaki;
-    }
-    &:nth-child(4) {
-      background: darkgreen;
-    }
-    &:nth-child(5) {
-      background: darkblue;
-    }
-    &:nth-child(6) {
-      background: indigo;
-    }
-    &:nth-child(7) {
-      background: darkviolet;
     }
 
     &:hover {
