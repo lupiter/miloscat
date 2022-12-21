@@ -26,3 +26,7 @@ links:
     text: Twitch
     thumbnail: assets/thumbnails/twitch.png
     logo: twitch
+  - url: https://miloscat.tumblr.com
+    text: Reviews
+    thumbnail: assets/thumbnails/reviews.png
+    logo: tumblr

@@ -79,6 +79,13 @@
   }
 }
 
+.header-thumbnail {
+  max-width: 200px;
+  float: left;
+  margin-right: 1rem;
+  border-radius: 10px;
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;

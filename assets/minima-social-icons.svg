@@ -45,4 +45,11 @@
   id="rect842" />
 </symbol>
 
+<symbol id="tumblr" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
+  <path
+   d="M 6.3879477,16 C 3.9774015,16 2.1895796,14.764595 2.1895796,11.801632 V 7.0608919 H 0 V 4.4896425 C 2.4105463,3.8669181 3.4149406,1.7978658 3.525424,0 h 2.5009418 v 4.0778409 h 2.9127435 v 2.983051 H 6.0263658 v 4.1280591 c 0,1.235405 0.6227245,1.667295 1.6170748,1.667295 h 1.416196 V 16 Z"
+   id="path1436"
+   style="stroke-width:1" />
+</symbol>
+
 </svg>

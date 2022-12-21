@@ -2,7 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
-thumbnail: /assets/thumbnails/links.jpg
+thumbnail: /assets/thumbnails/links.png
 order: 5
 ---
 
