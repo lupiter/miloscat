@@ -6,8 +6,22 @@ thumbnail: /assets/thumbnails/links.png
 order: 5
 ---
 
+My links:
+
+[Tumblr:](https://miloscat.tumblr.com/) I post reviews of every video game I play, as well as my scanlations and art.
+
+[Twitter:](https://twitter.com/MiloScat) Pretty low volume.
+
+[Twitch:](https://www.twitch.tv/miloscatter) I stream a variety of retro and indie games every Wednesday at 1pm Australian Eastern time.
+
+[YouTube:](https://www.youtube.com/@MiloScat/videos) All my streams are archived here.
+
+&nbsp;
+
+
+
 Friends and collaborators:
 
-[Opentrain](http://opentrain.199xchan.org) for more crazy video game comics.
-
 [I.M. Gibbon](https://twitter.com/imgibbon) of [DK Girder](http://www.dkgirder.com/), a fansite for Arcade Donkey Kong and related games.
+
+[Opentrain](http://opentrain.199xchan.org) for more crazy video game comics.

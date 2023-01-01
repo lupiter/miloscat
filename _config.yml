@@ -1,6 +1,6 @@
 title: Milo
 description: >- # this means to ignore newlines until "baseurl:"
-  Subjective game reviews, comic translations, pixel art, and other video game bits & bobs.  
+  A hub for my video game comic scanlations and other hobbies.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: miloscat
@@ -18,15 +18,15 @@ collections:
     sort_by: property
 
 links:
-  - url: https://www.youtube.com/user/Wiseguy934/featured
-    text: Streams
-    thumbnail: assets/thumbnails/streams.png
-    logo: youtube
   - url: https://www.twitch.tv/miloscatter
     text: Twitch
     thumbnail: assets/thumbnails/twitch.png
     logo: twitch
+  - url: https://www.youtube.com/@MiloScat/videos
+    text: Streams Archive
+    thumbnail: assets/thumbnails/streams.png
+    logo: youtube
   - url: https://miloscat.tumblr.com
-    text: Reviews
+    text: Game Reviews
     thumbnail: assets/thumbnails/reviews.png
     logo: tumblr
