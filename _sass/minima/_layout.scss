@@ -42,6 +42,7 @@ nav {
   column-gap: 10px;
   row-gap: 10px;
   margin-bottom: 1rem;
+  align-items: flex-start;
 
   @include media-query($on-palm) {
     grid-template-columns: repeat(2, 1fr);
@@ -54,13 +55,13 @@ nav {
     color: white;
     font-weight: bold;
     text-align: center;
-    align-items: center;
-    justify-content: end;
+    align-items: stretch;
+    justify-content: start;
     background-size: cover;
     overflow: hidden;
 
     img {
-      aspect-ratio: 1;
+      object-fit: cover;
     }
 
     .title, .set {
