@@ -5,7 +5,7 @@ date:   2022-12-19 19:04:01 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/SMk_DKC2_gag_thumb.png
 property: Super Mario-kun
-grouping: Manga
+
 ---
 
 ![](/assets/headers/SMk_DKC2_gag_header.png)
