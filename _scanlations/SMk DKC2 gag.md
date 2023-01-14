@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Super Mario-kun: Donkey Kong Country 2 4koma"
+title:  "Donkey Kong Country 2 4koma"
 date:   2022-12-19 19:04:01 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/SMk_DKC2_gag_thumb.png

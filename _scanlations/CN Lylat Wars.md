@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Club Nintendo: Lylat Wars addendum"
+title:  "Lylat Wars addendum"
 date:   2022-12-19 19:04:02 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/CN_LW_thumb.jpg
