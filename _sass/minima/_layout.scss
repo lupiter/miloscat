@@ -30,6 +30,12 @@
   }
 }
 
+nav {
+  .page-link {
+    aspect-ratio: 1;
+  }
+}
+
 .big-nav {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -45,15 +51,17 @@
     display: flex;
     flex-direction: column;
     border-radius: 10px;
-    background: blueviolet;
     color: white;
     font-weight: bold;
-    aspect-ratio: 1;
     text-align: center;
     align-items: center;
     justify-content: end;
     background-size: cover;
     overflow: hidden;
+
+    img {
+      aspect-ratio: 1;
+    }
 
     .title, .set {
       background-color: rgba(0,0,0, 0.5);
