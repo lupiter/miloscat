@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.scanlations.size > 0 -%}
     <ul class="big-nav">
-      {%- for post in site.scanlations -%}
+      {%- for post in site.scanlations | sort: "property" | sort: "grouping" -%}
         <a class="page-link {{ post.size }}" href="{{ post.url | relative_url }}">
           {%- if post.thumbnail -%}
             <img src="{{ post.thumbnail | relative_url }}" alt="" />
