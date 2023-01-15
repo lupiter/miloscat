@@ -19,4 +19,4 @@ The writer is unknown but the art is credited to Work House Co. Ltd., Tokyo. Car
 
 [Flickr gallery](https://www.flickr.com/photos/miloscat/albums/72157676924504554)
 
-[Download archive at Mediafire](http://www.mediafire.com/?2collsedjbsr7nu)
+[Download archive at Mediafire](https://www.mediafire.com/?2collsedjbsr7nu)

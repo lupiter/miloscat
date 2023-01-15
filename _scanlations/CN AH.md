@@ -21,4 +21,4 @@ The other song was a famous show tune from the early days of filmmaking. In fact
 
 [Flickr gallery](https://www.flickr.com/photos/miloscat/sets/72157638457913583/)
 
-[Download archive at Mediafire](http://www.mediafire.com/download/bb7781nk1v18v1p)
+[Download archive at Mediafire](https://www.mediafire.com/download/bb7781nk1v18v1p)

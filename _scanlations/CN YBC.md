@@ -19,4 +19,4 @@ I did all of this one myself, although I must acknowledge Time Q of Super Mario 
 
 [Flickr gallery](https://www.flickr.com/photos/miloscat/sets/72157636196257794/)
 
-[Download archive at Mediafire](http://www.mediafire.com/download/w1obpkreznpxi7k)
+[Download archive at Mediafire](https://www.mediafire.com/download/w1obpkreznpxi7k)

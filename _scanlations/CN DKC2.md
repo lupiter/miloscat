@@ -17,6 +17,6 @@ I really like the style of this comic. It contains humour, action, and some game
 
 This was my first big project, while my skills were still developing. I also found a better source of images later and rereleased it using this higher quality source. This is the improved version. Caramelman did the translation from German, and SirCathyWise provided the image for the credits page.
 
-[Flickr gallery](http://www.flickr.com/photos/miloscat/sets/72157633500777510/)
+[Flickr gallery](https://www.flickr.com/photos/miloscat/sets/72157633500777510/)
 
-[Download archive from Mediafire](http://www.mediafire.com/?zlew3v264aanp4f)
+[Download archive from Mediafire](https://www.mediafire.com/?zlew3v264aanp4f)

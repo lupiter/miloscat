@@ -19,4 +19,4 @@ This 6-page wonder was submitted to Hobby Consolas by Jose Luis Platero Pérez. 
 
 [Flickr gallery](https://www.flickr.com/photos/miloscat/sets/72157635910236275/)
 
-[Download archive at Mediafire](http://www.mediafire.com/download/248j7od9ens25h9)
+[Download archive at Mediafire](https://www.mediafire.com/download/248j7od9ens25h9)

@@ -15,7 +15,7 @@ A small project, this was a scanlation of a single page of the Club Nintendo (Ge
 
 The rest of this comic had been translated already and hosted at Arwing Landing. I noticed that one page was missing so had a quick go at it myself. I was still learning the skills of a scanlation editor at the time so it was good practice.
 
-Sadly Arwing Landing has disappeared from the web, but I saved the scanlated comic files. So I put together a package of these files, with my contribution added in, plus a bunch of other Star Fox comics. [You can download this here.](https://href.li/?https://www.mediafire.com/file/ar5knybwbteyeuz/Star_Fox_comics.zip/file) It contains:
+Sadly Arwing Landing has disappeared from the web, but I saved the scanlated comic files. So I put together a package of these files, with my contribution added in, plus a bunch of other Star Fox comics. [You can download this here.](https://www.mediafire.com/download/ar5knybwbteyeuz/) It contains:
 -1992 Star Fox comic, Nintendo Power
 -1993 Nester’s Adventures comic featuring Star Fox, Nintendo Power
 -1994 Star Fox mini-comic on back of Corn Flakes box, with Game Watch giveaway
