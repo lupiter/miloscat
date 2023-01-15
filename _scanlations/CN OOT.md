@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Legend of Zelda: Ocarina of Time"
-date:   2022-12-19 19:04:04 +1200
+date:   2022-12-19 19:04:05 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/CN_OOT_thumb.jpg
 property: Club Nintendo
