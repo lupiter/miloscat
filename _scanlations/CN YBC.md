@@ -11,7 +11,7 @@ grouping: European
 
 ![](/assets/headers/CN_YBC_header.jpg)
 
-Another comic from the regular run of Club Nintendo, Germany's official Nintendo magazine. This is a fun crossover between Yoshi and Kamek, the Blast Corps team, and Dr. Light from off of Mega Man (who is usually referred to as Dr. Lightningbolt in these comics).
+Another comic from the regular run of Club Nintendo (1997 issue 4), Germany's official Nintendo magazine. This is a fun crossover between Yoshi and Kamek, the Blast Corps team, and Dr. Light from off of Mega Man (who is usually referred to as Dr. Lightningbolt in these comics).
 
 I reckon they missed a trick by not depicting the cookies from Yoshi's Cookie itself, plus there's the odd decision to represent some kind of Blast Corps B-team with a female lead named Netty, and four similar-looking men—one of whom is apparently named Crusher—instead of Amber, Spike, Wesley, and Clark. But on the other hand there's some good gags here and lovely art.
 
