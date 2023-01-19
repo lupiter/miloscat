@@ -20,4 +20,4 @@ Thanks to Horseypope for translation help and Sircathywise for helping to make s
 
 [Read on Flickr](https://www.flickr.com/photos/miloscat/albums/72157678913054140)
 
-[Read on Mangadex](https://mangadex.org/chapter/39df8450-69eb-4abc-9b6c-b82da8c64dc7)
+[Read at Mangadex](https://mangadex.org/chapter/39df8450-69eb-4abc-9b6c-b82da8c64dc7)

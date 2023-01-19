@@ -34,4 +34,4 @@ Note that the galleries below also include the officially translated strips in a
 
 [Flickr gallery](https://www.flickr.com/photos/miloscat/albums/72157680513218125)
 
-[Read it at Mangadex](https://mangadex.org/title/b312a68e-2f96-4829-819f-4d99008c44d9/castlevania-4koma)
+[Read at Mangadex](https://mangadex.org/title/b312a68e-2f96-4829-819f-4d99008c44d9/castlevania-4koma)

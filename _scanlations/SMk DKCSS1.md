@@ -19,4 +19,4 @@ This story was presented as a "special stage" or bonus chapter outside the regul
 
 [Download archive at Mediafire](https://www.mediafire.com/?6c2kpbkmfyjbeqi)
 
-[Read it at Mangadex](https://mangadex.org/chapter/263ac35a-78e3-4db1-8c8a-7a8cc7565fc9)
+[Read at Mangadex](https://mangadex.org/chapter/263ac35a-78e3-4db1-8c8a-7a8cc7565fc9)
