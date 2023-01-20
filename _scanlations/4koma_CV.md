@@ -15,18 +15,18 @@ For various Castlevania releases, Konami hosted a handful of gag comics on the g
 
 [12 of the 19 gag strips for Order of Ecclesia](http://www.vgmuseum.com/mrp/cv-ooe/ooe-comic.htm#translated) and [all 18 for Dracula X Chronicles](http://www.vgmuseum.com/mrp/cv-rob/tdxc-comic.htm#translated) were officially translated to English for the US websites of those games. But there were many, many more that never left Japan. I wanted to read these funny joke comics, so I took it upon myself to translate them!
 
-The covered games are:
-Order of Ecclesia (7 by me, 12 by Konami US)
-Dracula X Chronicles (18 by Konami US)
-Lords of Shadow: Mirror of Fate (2 strips)
-Judgment (9 strips)
-Lament of Innocence (3 Shizumon strips, 3 other)
-Dawn of Sorrow (8 Shizumon strips, 6 other)
-Portrait of Ruin (10 Shizumon strips, 8 other)
-Harmony of Despair (11 strips)
-Curse of Darkness (11 strips)
-Pachislot Akumajō Dracula (6 strips)
-Pachislot Akumajō Dracula III (5 strips)
+The covered games are:  
+-Order of Ecclesia (7 by me, 12 by Konami US)  
+-Dracula X Chronicles (18 by Konami US)  
+-Lords of Shadow: Mirror of Fate (2 strips)  
+-Judgment (9 strips)  
+-Lament of Innocence (3 Shizumon strips, 3 other)  
+-Dawn of Sorrow (8 Shizumon strips, 6 other)  
+-Portrait of Ruin (10 Shizumon strips, 8 other)  
+-Harmony of Despair (11 strips)  
+-Curse of Darkness (11 strips)  
+-Pachislot Akumajō Dracula (6 strips)  
+-Pachislot Akumajō Dracula III (5 strips)
 
 These scanlations were originally posted directly to Tumblr, with occasional notes. The master post for this is [here.](https://miloscat.tumblr.com/post/131010520588)
 

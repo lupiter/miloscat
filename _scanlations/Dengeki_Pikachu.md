@@ -21,4 +21,4 @@ What I’ve translated is mini-comics from all four volumes, some of which are i
 
 There’s more commentary within the pages of this scanlation, but suffice it to say that these translations go towards making a more complete version of Dengeki Pikachu for English speakers. To that end, I’ve also compiled an archive of material drawing from both of Viz’s releases of the comic, Chuang Yi’s Singaporean release that translated an additional two pages, and with my own translations slotted in, to form the “ultimate” English reading experience of Dengeki Pikachu, so all of us here in English-land can enjoy Toshihiro Ono’s work to the fullest. Please check it out, you can download it at the link below.
 
-[Download the collected English version here!](https://www.mediafire.com/file/khyidk87rzqzgu4/The_Electric_Tale_of_Pikachu_ultimate_English_version.zip/file)
+[Download the collected English version here!](https://mega.nz/file/ivAWTRqa#PT-S-KV9bPgMD7uNJeJwj7ZDPvB0ea2tkwgEWCOpOM0)
