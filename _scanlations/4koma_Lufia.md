@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lufia 4koma"
+title:  "Lufia 3koma"
 date:   2022-12-19 19:04:21 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/4koma_Lufia_thumb.jpg

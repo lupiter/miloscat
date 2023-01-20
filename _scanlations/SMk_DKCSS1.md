@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pursuit!! Mario and the Kongs' Detective Story!?"
-date:   2022-12-19 19:04:06 +1100
+date:   2022-12-19 19:04:06 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/SMk_DKC1_0_thumb.jpg
 property: Super Mario-kun
