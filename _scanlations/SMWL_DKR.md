@@ -4,7 +4,7 @@ title:  "Get That Plane!"
 date:   2022-12-19 19:04:37 +1200
 categories: scanlation
 thumbnail: assets/scanlation_thumbs/SMWL_DKR_thumb.jpg
-property: Super Mario-kun
+property: Manga
 grouping: Manga
 
 ---
