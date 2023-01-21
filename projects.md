@@ -13,3 +13,5 @@ This website is intended to be a central, easily browsable hub for my projects; 
 **DKU Honourable Mentions.** [An aborted feature](https://dkvine.com/?p=games_list&list=honourable) for DKVine, the premier Rare shared universe/modern Donkey Kong fansite. This aimed to chronicle the games adjacent and just outside the DKU that they cover. I collected screenshots and wrote the copy for this half-finished list.
 
 **The silly expanded Zelda Timeline.** Based on Hyrule Historia’s official timeline, [this is my attempt](http://miloscat.tumblr.com/tagged/zelda-timeline) to fit in as many pseudo-official pieces of Zelda fiction as possible on top of the proper game chronology.
+
+**The Howard & Nester Ultimate Collection.** [A compilation of scans](https://href.li/?http://www.mediafire.com/download/m40oys4fpc8gljc) I put together of Nintendo Power's Howard & Nester comics, as well as their various solo comics and appearances.
