@@ -9,7 +9,7 @@ grouping: Manga
 
 ---
 
-![](/assets/headers/Ape_SNK_header.png)
+![](/assets/headers/Ape_SMK_header.png)
 
 The comic scanlations from Mario guides keep coming, thanks to [Ragey’s scans](https://randomhoohaas.flyingomelette.com/ai/scans/) and Borp! The guides done by Ape Inc in particular are excellent, and have lovely comics like this one, drawn by Benimaru Itoh. Itoh, also known as Ashura, Benny, or Mitch, has done many Nintendo comics including the Mario World guide’s comic and a full Mother 2 manga, as well as the Star Fox and Super Metroid comics for Nintendo Power. His art style is distinctive and fun, especially when the comics are in full colour like this one!
 

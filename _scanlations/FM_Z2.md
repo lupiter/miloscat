@@ -9,7 +9,7 @@ grouping: Manga
 
 ---
 
-![](/assets/headers/FM_Z1_header.png)
+![](/assets/headers/FM_Z2_header.png)
 
 This one comes from a Famicom Manga pack-in booklet included with the May 1987 Ninensei edition of Shogakukan’s Shogaku Gakushu Zasshi magazines. The raw scans come from [Ragey;](https://randomhoohaas.flyingomelette.com/ai/scans/) he also cleaned these up before I got to them! I took these and translated them into English with the help of Horseypope.
 
