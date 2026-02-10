@@ -3,7 +3,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   A hub for my video game comic scanlations and other hobbies.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: miloscat
 
 # Build settings
 theme: minima
